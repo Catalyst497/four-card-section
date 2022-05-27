@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Catalyst497/four-card-section]
-- Live Site URL: [https://catalyst497.github.io/intro-section-with-dropdown-navigation/]
+- Live Site URL: [https://catalyst497.github.io/four-card-section/]
 
 ### Built with
 
@@ -63,4 +63,4 @@ To practice more than I have ever done before.
 
 ## Acknowledgments
 
-This is me saying thank you to frontend mentor and everyone that works there for this awesome. It was a lot of work but it was really worth the while.
+This is me saying thank you to frontend mentor and everyone that works there for this awesome project. It involved a little bit of thinking but I thank God, I was able to solve it.
